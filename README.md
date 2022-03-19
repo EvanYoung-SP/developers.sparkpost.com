@@ -1,6 +1,6 @@
 # developers.sparkpost.com
 
-This repo contains the code and documentation that powers [developers.sparkpost.com](https://developers.sparkpost.com).
+This repo contains the code and documentation that powers [developers.sparkpost.com](https://developers.sparkpost.com)
 
 ## Get started
 
